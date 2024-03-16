@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f15677cc26cf64705b621840528e4759
+timeCreated: 1473155171
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 1.7
+  assetPath: Assets/Old Sea Port/EffectExamples/FireExplosionEffects/Materials/PlasmaFire.mat
+  uploadId: 564952
